@@ -1,0 +1,23 @@
+div {
+    border: 5px solid blue;
+}
+
+body{
+    border: 5px solid magenta;
+}
+
+header {
+    border: 5px solid cyan;
+}
+
+h2{
+    border: 5px solid purple;
+}
+
+span{
+    border: 5px solid green;
+}
+
+p {
+    border: 5px solid black;
+}
